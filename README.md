@@ -40,7 +40,7 @@ Type a domain or IP and press Enter to test its ping · Esc / Ctrl+C to quit
 ## Requirements
 
 - Linux (reads `/proc/net/dev` and `/proc/net/route`)
-- Go 1.22+ to build from source
+- Go 1.22+ to build from  source
 
 ### Unprivileged ping
 
